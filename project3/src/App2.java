@@ -10,5 +10,6 @@ public class App2 {
         Professor p = new Professor(nome, experiencia);
         System.out.println(p.toString());
         System.out.println("Categoria: " + p.classifica());
+        //comentario inserido na branch main XD
     }
 }
