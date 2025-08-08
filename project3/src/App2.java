@@ -11,5 +11,6 @@ public class App2 {
         System.out.println(p.toString());
         System.out.println("Categoria: " + p.classifica());
         //comentario inserido na branch main XD
+        //comentario feito pela branch Alteracao
     }
 }
